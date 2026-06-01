@@ -1,7 +1,5 @@
 # Hazem Adel Elbatawy
 
-# Hazem Adel Elbatawy
-
 Full-stack developer and security researcher building secure AI and business workflow demos.
 ## Fi Africa Demos
 
