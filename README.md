@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hazem Adel Elbatawy
 
-<!--
-**zoma00/zoma00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer and security researcher based in Egypt.
 
-Here are some ideas to get you started:
+## Fi Africa Demos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Open Fi Africa live demo page](https://zoma00.github.io/Fi-Africa-demos/)
+
+Product Similarity and Calories Zone demos prepared for Fi Africa customer conversations.
+
+- [Product Similarity demo](https://zoma00.github.io/Fi-Africa-demos/demos/product_similarity/static_demo/)
+- [Calories Zone preview](https://zoma00.github.io/Fi-Africa-demos/demos/calories_zone_app/preview/)
+- [Product Similarity PDF deck](https://zoma00.github.io/Fi-Africa-demos/presentations/product_similarity_conversation_deck.pdf)
+- [Calories Zone PDF deck](https://zoma00.github.io/Fi-Africa-demos/presentations/calories_zone_conversation_deck.pdf)
+
+## Portfolio
+
+- [Portfolio](https://zoma00.github.io/hazem-elbatawy-portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/hazem-el-batawy/)
