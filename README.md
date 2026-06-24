@@ -1,7 +1,8 @@
 # Hazem Adel Elbatawy
 
-Full-stack developer and security researcher building secure AI and business workflow demos.
-## Fi Africa Demos
+Independent Full-Stack and Security Consultant
+
+## Folio Vista BOOKS
 
 [Open Folio Vista Books](https://www.foliovistabooks.com/)
 
