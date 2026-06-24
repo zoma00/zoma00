@@ -3,7 +3,7 @@
 Full-stack developer and security researcher building secure AI and business workflow demos.
 ## Fi Africa Demos
 
-[Open Fi Africa live demo page](https://zoma00.github.io/Fi-Africa-demos/)
+[Open Folio Vista Books](https://www.foliovistabooks.com/)
 
 Product Similarity and Calories Zone demos prepared for Fi Africa customer conversations.
 
