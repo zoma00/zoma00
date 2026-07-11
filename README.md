@@ -24,7 +24,7 @@ Grouped by the capabilities most relevant to full-stack delivery with a security
 | Backend / API | [AutomationHub](https://github.com/AutoHubPlatform/AutomationHub) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) |
 | API Security | [bug-bounty-case-study](https://github.com/zoma00/bug-bounty-case-study) | ![Access Control](https://img.shields.io/badge/Access%20Control-B32424) ![IDOR/BOLA](https://img.shields.io/badge/IDOR%2FBOLA-8B0000) |
 | Security Ops | [vps-sec-cases](https://github.com/zoma00/vps-sec-cases) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
-| Frontend | [React-portal-theme](https://github.com/zoma00/React-portal-theme) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) |
+| Frontend | [Reactify](https://github.com/zoma00/Reactify) — [live demo](https://zoma00.github.io/Reactify/) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
 
 
 ## Product and Demo Assets
