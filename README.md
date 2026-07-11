@@ -22,6 +22,7 @@ Grouped by the capabilities most relevant to full-stack delivery with a security
 | Backend / API | [FastAPI-Bookstore](https://github.com/zoma00/FastAPI-Bookstore) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 | Backend / API | [Django-notifications](https://github.com/zoma00/Django-notifications) | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) |
 | Backend / API | [AutomationHub](https://github.com/AutoHubPlatform/AutomationHub) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) |
+| Backend / API | [Basic-Laravel-Ecommerce-pro](https://github.com/zoma00/Basic-Laravel-Ecommerce-pro) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) |
 | API Security | [bug-bounty-case-study](https://github.com/zoma00/bug-bounty-case-study) | ![Access Control](https://img.shields.io/badge/Access%20Control-B32424) ![IDOR/BOLA](https://img.shields.io/badge/IDOR%2FBOLA-8B0000) |
 | Security Ops | [vps-sec-cases](https://github.com/zoma00/vps-sec-cases) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
 | Frontend | [Reactify](https://github.com/zoma00/Reactify) — [live demo](https://zoma00.github.io/Reactify/) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
@@ -29,6 +30,7 @@ Grouped by the capabilities most relevant to full-stack delivery with a security
 
 ## Product and Demo Assets
 
+- [Reactify — live React UI demo](https://zoma00.github.io/Reactify/)
 - [FolioVista Books — publishing platform](https://www.foliovistabooks.com/)
 
 Product Similarity and Calories Zone demos prepared for Fi Africa customer conversations.
