@@ -18,6 +18,7 @@ Grouped by the capabilities most relevant to full-stack delivery with a security
 | Area | Project | Stack |
 |---|---|---|
 | Full-Stack / API | [vox-estate-agent](https://github.com/zoma00/vox-estate-agent) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) |
+| Backend / Cloud | [Django on AWS EC2](https://github.com/zoma00/Django-WebPage-Acess-Record-Deployment-on-AWS-EC2) | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonec2&logoColor=white) |
 | Backend / API | [django-users-vehicle-forms-api](https://github.com/zoma00/django-users-vehicle-forms-api) | ![Django REST](https://img.shields.io/badge/Django%20REST-A30000?logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
 | Backend / API | [FastAPI-Bookstore](https://github.com/zoma00/FastAPI-Bookstore) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 | Backend / API | [Django-notifications](https://github.com/zoma00/Django-notifications) | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) |
