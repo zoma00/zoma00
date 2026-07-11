@@ -18,7 +18,7 @@ FolioVista Books is my digital publishing platform for field books, practical gu
 - [Django-notifications](https://github.com/zoma00/Django-notifications)
 - [WooCommerce-Google-Looker-Studio-Integration](https://github.com/zoma00/WooCommerce-Google-Looker-Studio-Integration)
 - [🛍️ Product Image Matcher with AI](https://github.com/AutoHubPlatform/Products_similarity)
-- [AutomationHub (Laravel)](https://github.com/AutoHubPlatform/AutomationHub)
+- <img src="assets/saasykit-icon.png" alt="SaaSyKit" height="20" align="top" /> [AutomationHub (SaaSyKit)](https://github.com/AutoHubPlatform/AutomationHub)
 - [Users-Vehicle-Forms](https://github.com/zoma00/django-users-vehicle-forms-api)
 
 ## Product and Demo Assets
