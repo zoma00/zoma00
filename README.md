@@ -1,8 +1,8 @@
 # Hazem Adel Elbatawy
 
-Independent Full-Stack and Security Consultant
+Full-Stack & Backend API Developer | Integration Developer | Founder, FolioVista Books
 
-I build secure web systems, internal tools, technical publishing platforms, and structured digital products with production-minded implementation.
+I build full-stack web systems and backend APIs, with a focus on integration work that connects services into reliable, production-ready products. A security engineer's perspective is built into how I work, so what I ship holds up to real-world access-control and data-exposure risks.
 
 ## FolioVista Books
 
@@ -13,18 +13,23 @@ FolioVista Books is my digital publishing platform for field books, practical gu
 
 ## Production Work & Case Studies
 
-| Project | Stack |
-|---|---|
-| [Users-Vehicle-Forms-api](https://github.com/zoma00/django-users-vehicle-forms-api) | ![Django REST](https://img.shields.io/badge/Django%20REST-A30000?logo=django&logoColor=white) |
-| [vps-sec-cases](https://github.com/zoma00/vps-sec-cases) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
-| [APKAnalyzer-Appium](https://github.com/zoma00/APKAnalyzer-Appium) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) |
-| [Django-notifications](https://github.com/zoma00/Django-notifications) | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) |
-| [WooCommerce-Google-Looker-Studio-Integration](https://github.com/zoma00/WooCommerce-Google-Looker-Studio-Integration) | ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=looker&logoColor=white) |
-| [Product Image Matcher with AI](https://github.com/AutoHubPlatform/Products_similarity) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
-| [AutomationHub](https://github.com/AutoHubPlatform/AutomationHub) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![SaaSyKit](https://img.shields.io/badge/SaaSyKit-7C3AED) |
+Grouped by the capabilities most relevant to full-stack delivery with a security focus: backend APIs, databases, frontend, and API/application security.
+
+| Area | Project | Stack |
+|---|---|---|
+| Full-Stack / API | [vox-estate-agent](https://github.com/zoma00/vox-estate-agent) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) |
+| Backend / API | [django-users-vehicle-forms-api](https://github.com/zoma00/django-users-vehicle-forms-api) | ![Django REST](https://img.shields.io/badge/Django%20REST-A30000?logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
+| Backend / API | [FastAPI-Bookstore](https://github.com/zoma00/FastAPI-Bookstore) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| Backend / API | [Django-notifications](https://github.com/zoma00/Django-notifications) | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) |
+| Backend / API | [AutomationHub](https://github.com/AutoHubPlatform/AutomationHub) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) |
+| API Security | [bug-bounty-case-study](https://github.com/zoma00/bug-bounty-case-study) | ![Access Control](https://img.shields.io/badge/Access%20Control-B32424) ![IDOR/BOLA](https://img.shields.io/badge/IDOR%2FBOLA-8B0000) |
+| Security Ops | [vps-sec-cases](https://github.com/zoma00/vps-sec-cases) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
+| Frontend | [React-portal-theme](https://github.com/zoma00/React-portal-theme) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) |
 
 
 ## Product and Demo Assets
+
+- [FolioVista Books — publishing platform](https://www.foliovistabooks.com/)
 
 Product Similarity and Calories Zone demos prepared for Fi Africa customer conversations.
 
