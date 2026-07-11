@@ -11,7 +11,7 @@ FolioVista Books is my digital publishing platform for field books, practical gu
 - [Open FolioVista Books](https://www.foliovistabooks.com/)
 - [Founder Portfolio](https://zoma00.github.io/hazem-elbatawy-portfolio/)
 
-## Selected Proof
+## Production Work & Case Studies
 
 | Project | Stack |
 |---|---|
