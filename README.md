@@ -19,7 +19,7 @@ FolioVista Books is my digital publishing platform for field books, practical gu
 - [WooCommerce-Google-Looker-Studio-Integration](https://github.com/zoma00/WooCommerce-Google-Looker-Studio-Integration) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=looker&logoColor=white)
 - [Product Image Matcher with AI](https://github.com/AutoHubPlatform/Products_similarity) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 - [AutomationHub](https://github.com/AutoHubPlatform/AutomationHub) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![SaaSyKit](https://img.shields.io/badge/SaaSyKit-7C3AED)
-- [Users-Vehicle-Forms](https://github.com/zoma00/django-users-vehicle-forms-api/tree/master) ![Django REST](https://img.shields.io/badge/Django%20REST-A30000?logo=django&logoColor=white)
+- [Users-Vehicle-Forms-api](https://github.com/zoma00/django-users-vehicle-forms-api) ![Django REST](https://img.shields.io/badge/Django%20REST-A30000?logo=django&logoColor=white)
 
 ## Product and Demo Assets
 
