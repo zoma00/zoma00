@@ -2,6 +2,8 @@
 
 Full-Stack & Backend API Developer | Integration Developer | Founder, FolioVista Books
 
+Security Researcher
+
 I build full-stack web systems and backend APIs, with a focus on integration work that connects services into reliable, production-ready products. A security engineer's perspective is built into how I work, so what I ship holds up to real-world access-control and data-exposure risks.
 
 ## FolioVista Books
