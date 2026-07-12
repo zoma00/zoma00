@@ -27,11 +27,13 @@ Grouped by the capabilities most relevant to full-stack delivery with a security
 | Backend / API | [Basic-Laravel-Ecommerce-pro](https://github.com/zoma00/Basic-Laravel-Ecommerce-pro) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) |
 | API Security | [bug-bounty-case-study](https://github.com/zoma00/bug-bounty-case-study) | ![Access Control](https://img.shields.io/badge/Access%20Control-B32424) ![IDOR/BOLA](https://img.shields.io/badge/IDOR%2FBOLA-8B0000) |
 | Security Ops | [vps-sec-cases](https://github.com/zoma00/vps-sec-cases) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
+| Frontend | [SECHIVE](https://github.com/SECHIVEE/SECHIVE) — [live demo](https://sechivee.github.io/SECHIVE/) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) |
 | Frontend | [Reactify](https://github.com/zoma00/Reactify) — [live demo](https://zoma00.github.io/Reactify/) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
 
 
 ## Product and Demo Assets
 
+- [SECHIVE — multi-page React/TypeScript site (live)](https://sechivee.github.io/SECHIVE/)
 - [Reactify — live React UI demo](https://zoma00.github.io/Reactify/)
 - [FolioVista Books — publishing platform](https://www.foliovistabooks.com/)
 
