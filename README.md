@@ -6,12 +6,14 @@ Security Researcher
 
 I build full-stack web systems and backend APIs, with a focus on integration work that connects services into reliable, production-ready products. A security engineer's perspective is built into how I work, so what I ship holds up to real-world access-control and data-exposure risks.
 
-## FolioVista Books
+## Production Platform — FolioVista Books
 
-FolioVista Books is my digital publishing platform for field books, practical guides, and digital releases.
+I founded FolioVista Books as a digital publishing company for digital books, practical guides, manuals, and free sample chapters. It is my current live production platform.
 
-- [Open FolioVista Books](https://www.foliovistabooks.com/)
+- [Visit FolioVista Books](https://www.foliovistabooks.com/)
 - [Founder Portfolio](https://zoma00.github.io/hazem-elbatawy-portfolio/)
+- [hazem.elbatawy@foliovistabooks.com](mailto:hazem.elbatawy@foliovistabooks.com)
+- [contact@foliovistabooks.com](mailto:contact@foliovistabooks.com)
 
 ## Production Work & Case Studies
 
@@ -37,7 +39,6 @@ Grouped by the capabilities most relevant to full-stack delivery with a security
 
 - [SECHIVE — multi-page React/TypeScript site (live)](https://sechivee.github.io/SECHIVE/)
 - [Reactify — live React UI demo](https://zoma00.github.io/Reactify/)
-- [FolioVista Books — publishing platform](https://www.foliovistabooks.com/)
 
 Product Similarity and Calories Zone demos prepared for Fi Africa customer conversations.
 
@@ -50,4 +51,5 @@ Product Similarity and Calories Zone demos prepared for Fi Africa customer conve
 
 - [LinkedIn](https://www.linkedin.com/in/hazem-el-batawy/)
 - [Portfolio](https://zoma00.github.io/hazem-elbatawy-portfolio/)
+- [hazem.elbatawy@foliovistabooks.com](mailto:hazem.elbatawy@foliovistabooks.com)
 - [contact@foliovistabooks.com](mailto:contact@foliovistabooks.com)
