@@ -1,8 +1,6 @@
 # Hazem Adel Elbatawy
 
-Full-Stack & Backend API Developer | Integration Developer | Founder, FolioVista Books
-
-Security Researcher
+Full-Stack & Backend API Developer | Integration Developer | Founder, FolioVista Books | Security Researcher
 
 I build full-stack web systems and backend APIs, with a focus on integration work that connects services into reliable, production-ready products. A security engineer's perspective is built into how I work, so what I ship holds up to real-world access-control and data-exposure risks.
 
@@ -22,8 +20,8 @@ Grouped by the capabilities most relevant to full-stack delivery with a security
 | Area | Project | Stack |
 |---|---|---|
 | Full-Stack / API | [vox-estate-agent](https://github.com/zoma00/vox-estate-agent) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) |
-| Backend / Integration | [Miando — MT5 Forex Data Integration](https://github.com/zoma00/Miando-ordinary-patches-) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MQL5](https://img.shields.io/badge/MQL5-2E77BC) |
-| Backend / Cloud | [Django on AWS EC2](https://github.com/zoma00/Django-WebPage-Acess-Record-Deployment-on-AWS-EC2) | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonec2&logoColor=white) |
+| Backend / Integration | [Miando — MT5 Forex Data Integration](https://github.com/zoma00/miando-mt5-forex-integration) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MQL5](https://img.shields.io/badge/MQL5-2E77BC) |
+| Backend / Cloud | [Django on AWS EC2](https://github.com/zoma00/django-webpage-access-records-aws-ec2) | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonec2&logoColor=white) |
 | Backend / API | [django-users-vehicle-forms-api](https://github.com/zoma00/django-users-vehicle-forms-api) | ![Django REST](https://img.shields.io/badge/Django%20REST-A30000?logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
 | Backend / API | [FastAPI-Bookstore](https://github.com/zoma00/FastAPI-Bookstore) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 | Backend / API | [Django-notifications](https://github.com/zoma00/Django-notifications) | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) |
