@@ -13,7 +13,7 @@ I founded FolioVista Books as a digital publishing company for digital books, pr
 - [hazem.elbatawy@foliovistabooks.com](mailto:hazem.elbatawy@foliovistabooks.com)
 - [contact@foliovistabooks.com](mailto:contact@foliovistabooks.com)
 
-## Production Work & Case Studies
+## Selected Work
 
 Grouped by the capabilities most relevant to full-stack delivery with a security focus: backend APIs, databases, frontend, and API/application security.
 
@@ -29,7 +29,7 @@ Grouped by the capabilities most relevant to full-stack delivery with a security
 | API Security | [bug-bounty-case-study](https://github.com/zoma00/bug-bounty-case-study) | ![Access Control](https://img.shields.io/badge/Access%20Control-B32424) ![IDOR/BOLA](https://img.shields.io/badge/IDOR%2FBOLA-8B0000) |
 | Security Ops | [vps-sec-cases](https://github.com/zoma00/vps-sec-cases) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
 | Frontend | [SECHIVE](https://github.com/SECHIVEE/SECHIVE) — [live demo](https://sechivee.github.io/SECHIVE/) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) |
-| Frontend | [Reactify](https://github.com/zoma00/Reactify) — [live demo](https://zoma00.github.io/Reactify/) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| Frontend | [Reactify](https://github.com/zoma00/Reactify) — [live demo](https://zoma00.github.io/Reactify/) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 
 
 ## Product and Demo Assets
