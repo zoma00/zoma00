@@ -6,7 +6,7 @@ I build full-stack web systems and backend APIs, with a focus on integration wor
 
 ## Production Platform — FolioVista Books
 
-I founded FolioVista Books as a digital publishing company for digital books, practical guides, manuals, and free sample chapters. It is my current live production platform.
+Founder of FolioVista Books as a digital publishing company for digital books, practical guides, manuals, and free sample chapters. It is my current live production platform.
 
 - [Visit FolioVista Books](https://www.foliovistabooks.com/)
 - [Founder Portfolio](https://zoma00.github.io/hazem-elbatawy-portfolio/)
