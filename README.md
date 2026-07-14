@@ -31,6 +31,7 @@ Grouped by the capabilities most relevant to full-stack delivery with a security
 | Security Ops | [vps-sec-cases](https://github.com/zoma00/vps-sec-cases) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
 | Frontend | [SECHIVE](https://github.com/SECHIVEE/SECHIVE) — [live demo](https://sechivee.github.io/SECHIVE/) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) |
 | Frontend | [Reactify](https://github.com/zoma00/Reactify) — [live demo](https://zoma00.github.io/Reactify/) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| Mobile | [calories-zone](https://github.com/zoma00/calories-zone) — Google Play closed testing complete | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) |
 
 
 ## Product and Demo Assets
